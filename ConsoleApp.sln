@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yuan2", "Yuan2\Yuan2.csproj", "{FE904BF8-6D37-4DDF-95E5-038C4F9237B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yun2.UnitTests", "Yun2.UnitTests\Yun2.UnitTests.csproj", "{73F3B931-02D9-4363-8AB4-1F06CCB2AC0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yuan2.UnitTests", "Yuan2.UnitTests\Yuan2.UnitTests.csproj", "{9DDE4C62-53AE-4C4C-9ABB-75DCD9160945}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{FE904BF8-6D37-4DDF-95E5-038C4F9237B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE904BF8-6D37-4DDF-95E5-038C4F9237B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE904BF8-6D37-4DDF-95E5-038C4F9237B7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{73F3B931-02D9-4363-8AB4-1F06CCB2AC0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{73F3B931-02D9-4363-8AB4-1F06CCB2AC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{73F3B931-02D9-4363-8AB4-1F06CCB2AC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{73F3B931-02D9-4363-8AB4-1F06CCB2AC0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDE4C62-53AE-4C4C-9ABB-75DCD9160945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDE4C62-53AE-4C4C-9ABB-75DCD9160945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDE4C62-53AE-4C4C-9ABB-75DCD9160945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDE4C62-53AE-4C4C-9ABB-75DCD9160945}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
